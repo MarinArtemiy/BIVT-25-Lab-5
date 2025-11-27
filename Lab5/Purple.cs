@@ -1,11 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-using System.Globalization;
-using System.Linq;
-using System.Numerics;
-using System.Runtime.CompilerServices;
-using System.Runtime.InteropServices;
-
-namespace Lab5
+﻿namespace Lab5
 {
     public class Purple
     {
@@ -454,4 +447,5 @@ namespace Lab5
             return answer;
         }
     }
+
 }
